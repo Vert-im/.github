@@ -2,4 +2,4 @@
 
 Yet another instant messaging platform
 
-![banner](img/Vertexify.png)
+![banner](../img/Vertexify.png)
